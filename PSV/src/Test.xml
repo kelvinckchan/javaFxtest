@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<models>
+    <model>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Hans</firstName>
+        <lastName>Muster</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </model>
+    <model>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Ruth</firstName>
+        <lastName>Mueller</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </model>
+    <model>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Heinz</firstName>
+        <lastName>Kurz</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </model>
+    <model>
+        <birthday>1999-02-21</birthday>
+        <city>some city</city>
+        <firstName>Cornelia</firstName>
+        <lastName>Meier</lastName>
+        <postalCode>1234</postalCode>
+        <street>some street</street>
+    </model>
+</models>
